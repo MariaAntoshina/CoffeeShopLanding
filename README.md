@@ -1,4 +1,4 @@
-Landing for Coffee Shop (HTML, CSS, BEM)
+<h1>Landing for Coffee Shop (HTML, CSS, BEM)</h1>
 
 Preview of website:
 
