@@ -150,7 +150,7 @@ button{
 
 /*Banner*/
 #banner-section{
-    background: url(/images/banner.jpg) 50% 0%/cover no-repeat;
+    background: url(images/banner.jpg) 50% 0%/cover no-repeat;
 }
 .banner{
     display: flex;
@@ -198,7 +198,7 @@ button{
     width: 66px;
     height: 66px;
     border: 2px solid #FFFFFF;
-    background: url(/images/play.svg) 50%/14px 18px no-repeat;
+    background: url(images/play.svg) 50%/14px 18px no-repeat;
     border-radius: 50%;
     transform: translateX(-50%);
 }
