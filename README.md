@@ -1,8 +1,8 @@
 <h1>Landing for Coffee Shop (HTML, CSS, BEM)</h1>
 
-This landing was created for coffee lovers. Customers can buy coffee beans in a coffee shop or have a cup of coffee in cafe. They can also read history of a company, have a look in the menu and book a table. 
+This landing was created for coffee lovers. Customers can buy coffee beans in a coffee shop or have a cup of coffee in the cafe. They can also read history of the company, have a look in the menu and book a table. 
 
-Preview of website:
+Preview of a website:
 
 ![image](https://github.com/user-attachments/assets/3febbbc0-9f01-4060-8fd5-11d06166cde4)
 
